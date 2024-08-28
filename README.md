@@ -1,7 +1,9 @@
 ### bem-vindo 👋
 Me chamo Gabriel
 - Estou estudando no [Alura](https://www.alura.com.br)
-- Sou um novo perfil.
-  
-https://media.tenor.com/_GAtO7co4qcAAAAM/nikolas-ferreira-faz-o-l.gif
+- Utilizo esse perfil para fazer uns projetos; 
+- Sou um novo perfil;
+- - Email: g.ortolan@escola.pr.gov.br.
+
+
 ![](https://media.tenor.com/_GAtO7co4qcAAAAM/nikolas-ferreira-faz-o-l.gif)
