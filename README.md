@@ -1,8 +1,9 @@
 ### bem-vindo 👋
-Me chamo Gabriel
+Me chamo Gabriel 🗽
 - Estou estudando no [Alura](https://www.alura.com.br)
-- Utilizo esse perfil para fazer uns projetos; 
-- Sou um novo perfil;
+- Utilizo esse perfil para fazer uns projetos 📸;
+- Sou um novo perfil 🔔;
+- Deus, patria, corrupção 🇧🇷;
 - - Email: g.ortolan@escola.pr.gov.br.
 
 
